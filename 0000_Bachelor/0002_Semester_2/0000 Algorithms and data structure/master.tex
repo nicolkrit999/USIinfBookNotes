@@ -1,0 +1,94 @@
+\documentclass[a4paper]{report}
+\input{header.tex}
+\author{Krit Pio Nicol}
+\title{Computer Networking book}
+
+\thispagestyle{empty}
+\addbibresource{ref.bib}
+
+\usepackage{adjustbox}
+\usepackage{centernot}
+
+
+
+\begin{document}
+
+
+
+%%%%%%%%%%% TITLE PAGE
+
+\begin{titlepage}
+\begin{figure}[t]
+    \centering\includegraphics[width=0.5\textwidth]{Figures/usilogo.png}
+\end{figure}
+
+\begin{center}
+    \textsc{\LARGE{USI Lugano\\}}
+	\textsc{ \LARGE{Computer Science Department\\ }}
+	%\textnormal{ \LARGE{Corso di Laurea Triennale/Magistrale in ???\\}}
+	\vspace{40mm}
+	\fontsize{10mm}{7mm}\selectfont 
+    \textup{Computer Networking book}\\
+\end{center}
+
+\vspace{25mm}
+
+\begin{minipage}[t]{0.47\textwidth}
+	\textnormal{\large{\bf Professor\\}}
+	{\large Prof. Santini\\ \\}
+ \textnormal{\large{\bf TA's\\}}
+	{\large M. Laporte, L. Alecci}
+\end{minipage}\hfill\begin{minipage}[t]{0.47\textwidth}\raggedleft
+	\textnormal{\large{\bf Student\\}}
+	{\large Krit Pio Nicol}
+\end{minipage}
+
+\vspace{20mm}
+
+\centering{\large{Year 2024 }}
+
+\end{titlepage}
+
+\begin{abstract}
+
+    \begin{itemize}
+        \item The Internet is the largest engineered system in history, comprising millions of computers and communication devices, billions of users, and a vast array of Internet-connected "things".
+        \item Despite its size and complexity, it is possible to understand how the Internet works, thanks to guiding principles and structures.
+        \item The aim is to provide a modern introduction to computer networking, emphasizing principles and practical insights for understanding current and future networks.
+        \item This overview includes:
+        \begin{itemize}
+            \item Basic terminology and concepts in computer networking.
+            \item Examination of network hardware and software components, including end systems, network applications, links, switches, access networks, and physical media.
+            \item Understanding the Internet as a network of networks and how these networks interconnect.
+            \item Discussion on the core aspects of computer networks, such as delay, loss, and throughput, including simple quantitative models for end-to-end throughput and delay.
+            \item Key architectural principles in computer networking, including protocol layering and service models.
+            \item Overview of security challenges and types of attacks in computer networks, with strategies for enhancing security.
+            \item A brief history of computer networking to close the chapter.
+        \end{itemize}
+        \item The chapter sets the context for the rest of the book, aiming to see "the forest through the trees" by providing a broad picture without losing sight of the detailed aspects of computer networking.
+    \end{itemize}
+    
+\end{abstract}
+
+\newpage
+
+\tableofcontents
+
+
+
+
+%─────Lectures{start{end}─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+\lec{1}{9999}
+
+\newpage
+%─────Appendix────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+%\appendix
+%\appendixpage
+
+%\input{appendix.tex}
+
+\newpage
+%─────Reference───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+%\printbibliography
+
+\end{document}
