@@ -68,6 +68,11 @@
 \def\algocflineautorefname{Algorithm}
 \counterwithin{algocfline}{chapter}
 
+% Pseudocode personalization
+\SetKw{KwBy}{by}
+\newcommand\mycommfont[1]{\footnotesize\ttfamily\textcolor{purple}{#1}}
+\SetCommentSty{mycommfont}
+
 % Clear out the item autoref name
 \makeatletter
 \def\itemautorefname{\@gobble}

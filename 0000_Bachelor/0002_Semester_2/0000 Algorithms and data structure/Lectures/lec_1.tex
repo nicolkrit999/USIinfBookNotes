@@ -50,7 +50,7 @@ Not relevant
 
   \end{eg}
 
-  \chapter{Getting started (39-49}
+  \chapter{Getting started (39-49)}
 
   \section{Insertion sort}
   \begin{definition}[keys]\label{def:keys_1}
@@ -64,4 +64,23 @@ Not relevant
 \begin{eg}[How it works]
 To sort an array of size N in ascending order iterate over the array and compare the current element (key) \hyperref[def:keys_1]{keys} to its predecessor, if the key element is smaller than its predecessor, compare it to the elements before. Move the greater elements one position up to make space for the swapped element.
 \end{eg}
+
+\begin{algorithm}
+\caption{Insertion sort}\label{alg:insertion_sort_1}
+  \For{$i\gets2$ \KwTo $n$}{
+  $key = A[1]$ \tcp*{Assign variable "key" to the index "i" of array "A"}
+  
+  $j = i - 1$ \tcp*{ Insert $A[1]$ into the sorted sub-array $A[1 : i -1]$}
+  
+  \tcc{Conditional check while true}
+  \While{$j > 0$ and $A[j] > key$}{
+  $A[j + 1] = A[j]$ \tcp*{Retrive value at index "j" and assign this value to the element at index $j + 1$}
+  
+  $j = j - 1$} \tcp*{Swap $j$ with the value at index $j - 1$}
+  $A]j + 1] = key$
+  }
+
+\end{algorithm}
+
+\section{Analyzing algorithms}
 
