@@ -8,6 +8,7 @@ def calculate_pages_per_book_by_date(input_date_str):
         "Computer Architecture": 17,
         "Computer Networking": 16,
         "Operating Systems": 12
+        "Data management": 22,
     }
 
     # Start date of reading sessions
@@ -37,5 +38,5 @@ def calculate_pages_per_book_by_date(input_date_str):
         return "Invalid input date. Please enter the date in DD-MM-YYYY format."
 
 # Usage
-input_date_str = "22-02-2024"  # Replace with the date you want to check, set the day after the current date
+input_date_str = "23-02-2024"  # Replace with the date you want to check, set the day after the current date
 print(calculate_pages_per_book_by_date(input_date_str))
