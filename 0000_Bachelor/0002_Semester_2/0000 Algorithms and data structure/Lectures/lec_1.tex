@@ -3,8 +3,6 @@
 
 \lecture{1}{19 Feb}{1-27}
 
-\section{Preface and introduction}
-Not relevant
 
 \lecture{2}{21 Feb}{27-54}
 
@@ -82,5 +80,32 @@ To sort an array of size N in ascending order iterate over the array and compare
 
 \end{algorithm}
 
+
+
+\subsubsection{Loop invariant}
+
+\begin{definition*}
+Loop invariant
+\begin{definition}[Loop invariant]\label{def:loop_invariants_1}
+    A loop invariant is a condition (among program variables) that is necessarily true immediately before and immediately after each iteration of a loop. 
+\end{definition}
+\begin{note}[Boolean state thorugh the iteration]\label{note:loop_invariant_iteration_boolean_state_1}
+    Note that this says nothing about its truth or falsity part way through an iteration.
+\end{note}
+
+\end{definition*}
+
+
 \section{Analyzing algorithms}
+
+\begin{note}[running time]\label{note:running_time_1}
+The running time is dependent on various factor, such as \hyperref[def:constant_factor_2]{input size}, current status\footnote{How many keys are already sorted}, machine hardware.
+
+However you can evaluate a formula depending on the input size, which is a general explanation of the time complexity
+
+\end{note}
+
+\begin{definition}[Running time]\label{def:running_time_1}
+    Number of instruction and data accesess executed
+\end{definition}
 
