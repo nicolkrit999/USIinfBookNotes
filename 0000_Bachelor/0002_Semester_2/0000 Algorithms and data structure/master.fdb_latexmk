@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber master"] 0 "master.bcf" "master.bbl" "master" 1708609135 -1
+["biber master"] 1708613075 "master.bcf" "master.bbl" "master" 1708613394 0
   "./ref.bib" 1708382712 230 0089041083ca21492e527b2a77c0601a ""
-  "master.bcf" 1708609135 107443 9d0a709f70dee3bc92bac232c96d1cef "pdflatex"
+  "master.bcf" 1708613393 107443 9d0a709f70dee3bc92bac232c96d1cef "pdflatex"
   (generated)
   "master.bbl"
   "master.blg"
   (rewritten before read)
-["pdflatex"] 1708609127 "/home/krit/0000_Github_Repos/0001_USI/0000_Usi_Inf/0000_General/USIinfBookNotes/0000_Bachelor/0002_Semester_2/0000 Algorithms and data structure/master.tex" "master.pdf" "master" 1708609135 0
+["pdflatex"] 1708613385 "/home/krit/0000_Github_Repos/0001_USI/0000_Usi_Inf/0000_General/USIinfBookNotes/0000_Bachelor/0002_Semester_2/0000 Algorithms and data structure/master.tex" "master.pdf" "master" 1708613394 0
   "/home/krit/0000_Github_Repos/0001_USI/0000_Usi_Inf/0000_General/USIinfBookNotes/0000_Bachelor/0002_Semester_2/0000 Algorithms and data structure/master.tex" 1708598398 2542 6c69294a4709237bb275125742c49bb6 ""
   "/opt/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1698306682 2971 def0b6c1f0b107b3b936def894055589 ""
   "/opt/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1698306682 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -35,6 +35,7 @@
   "/opt/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecsx1000.tfm" 1698306682 3584 d90cef44d3336212c1284055d79d7513 ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecti0600.tfm" 1698306682 3072 80e486733e39bf8ad2a360793cc998ae ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecti0700.tfm" 1698306682 3072 b90b057319ce008920857c32d19eeb4d ""
+  "/opt/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm" 1698306682 3072 3bce340d4c075dffe6d4ec732b4c32fe ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ectt0800.tfm" 1698306682 1536 0b0b8ca286de6a006b681926403f35cd ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1698306682 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1698306682 1120 1e8878807317373affa7f7bba4cf2f6a ""
@@ -74,9 +75,12 @@
   "/opt/texlive/2023/texmf-dist/fonts/tfm/public/stmaryrd/stmary6.tfm" 1698306682 848 068dd119e13b75777e62821af7d4f2a6 ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/public/stmaryrd/stmary7.tfm" 1698306682 848 26631fcb3e4cb6757598b9cda7967b63 ""
   "/opt/texlive/2023/texmf-dist/fonts/tfm/public/stmaryrd/stmary8.tfm" 1698306682 848 6125cdd3627e68d3db8013b98e587508 ""
+  "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1698306682 30251 6afa5cb1d0204815a708a080681d4674 ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1698306682 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1698306682 36281 c355509802a035cadc5f15869451dcee ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1698306682 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1698306682 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1698306682 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1698306682 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1698306682 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1698306682 32569 5e5ddc8df908dea60932f3c484a54c0d ""
@@ -98,6 +102,7 @@
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb" 1698306682 149078 1f78530235f7e16c583e4692f7af72b1 ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0600.pfb" 1698306682 188157 fb474a5eda7d190f39fd181b54d2310a ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0700.pfb" 1698306682 184338 71ec80cd6b45d5405da0f23c65ebdef8 ""
+  "/opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb" 1698306682 186554 e8f0fa8ca05e038f257a06405232745f ""
   "/opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb" 1698306682 175641 e30a691dc1402b08fd6535cf8a31e5b7 ""
   "/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1698306682 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/opt/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1698306682 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -383,15 +388,15 @@
   "/opt/texlive/2023/texmf.cnf" 1698306682 585 cbdac2c540e67e6925735bc924caa885 ""
   "Figures/usilogo.png" 1708382712 29750 c3223f29bc9a73e639c0602ee5a21f49 ""
   "Lectures/lec_1.tex" 1708608930 95 c4f0925213e192ac73fc2562329725e7 ""
-  "Lectures/lec_2.tex" 1708609127 4846 f2f84a71216e7e46a266b9de98bf378f ""
+  "Lectures/lec_2.tex" 1708613376 6553 7895744dfb84e6549fd9531f006f1714 ""
   "Math.tex" 1708382712 2445 14d338f077c4313dbfa96d1d1a0ec7fc ""
   "header.tex" 1708609091 11725 7a97928e4d3bd975a75d9702fb69d702 ""
-  "master.aux" 1708609135 7486 ed5aebec28ff94626e0ae2e67998ef8a "pdflatex"
-  "master.bbl" 1708607255 466 ee04f40f768daeed26442158e95aba61 "biber master"
-  "master.out" 1708609135 1491 92c5481db7d821e682e984cbca54d547 "pdflatex"
-  "master.run.xml" 1708609135 2318 54cfa3ba94777505e137b706f4dd1953 "pdflatex"
+  "master.aux" 1708613393 8928 c1f48b3630b763219db34857479afa9c "pdflatex"
+  "master.bbl" 1708613077 466 ee04f40f768daeed26442158e95aba61 "biber master"
+  "master.out" 1708613393 1580 5a08eb42f0846102db1fcfff16f29f62 "pdflatex"
+  "master.run.xml" 1708613393 2318 54cfa3ba94777505e137b706f4dd1953 "pdflatex"
   "master.tex" 1708598398 2542 6c69294a4709237bb275125742c49bb6 ""
-  "master.toc" 1708609135 688 09e3061a695ae8f2f7d31be4fab01f08 "pdflatex"
+  "master.toc" 1708613393 704 828640524e8fe06efdd951c1c24d9bb8 "pdflatex"
   (generated)
   "master.aux"
   "master.bcf"

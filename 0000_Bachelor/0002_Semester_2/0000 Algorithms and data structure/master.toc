@@ -6,4 +6,4 @@
 \contentsline {section}{\numberline {2.1}Insertion sort}{4}{section.2.1}%
 \contentsline {subsubsection}{Loop invariant}{4}{section*.6}%
 \contentsline {section}{\numberline {2.2}Analyzing algorithms}{5}{section.2.2}%
-\contentsline {subsubsection}{Execution cost evaluation method 1:Time cost of each statement}{5}{section*.7}%
+\contentsline {subsubsection}{Insertion sort execution cost evaluation method 1: Time cost of each statement}{5}{section*.7}%

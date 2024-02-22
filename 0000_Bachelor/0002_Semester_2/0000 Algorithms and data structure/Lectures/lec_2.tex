@@ -104,9 +104,49 @@ However you can evaluate a formula depending on the input size, which is a gener
 \end{note}
 
 
-\subsubsection{Execution cost evaluation method 1:Time cost of each statement}
+\subsubsection{Insertion sort execution cost evaluation method 1: Time cost of each statement}
 
-\begin{note}[Statement execution number]\label{note:statement_execution_number_1}
-    "For" and "while" statements are executed one time more than the loop body.
-    This is because the statement stop after the loop result in being false, which require an additional step.\footnote{to actually check if it "false"}
+\begin{note}[running time evaluation]\label{note:statement_execution_number_1}
+    The running time evaluation is the sum of the products of the "cost", which is 1 for each statement and "times", which is dependent on "n".
+    
+    \begin{remark}[For and while loop]
+         In "For" and "while" loop the first statement, called \emph{test} is executed one more time than the loop body.
+        This is because the loop stop after the test result in being false, which require an additional step.\footnote{to actually check if it "false"}
+    \end{remark}
 \end{note}
+
+\begin{eg}[for i = m to n]
+    Where "i" is the index counter starting from "m" and "n" is the number of keys in the Array "A".   
+    
+    It has a cost of c1, since it's the first statement.
+    
+    The execution time is "n", to show that it scales linearly with n
+\end{eg}
+
+
+\begin{eg}[key = A{[1]}]
+    Assign a variable named "key" to the index "i" in the Array "A"
+    
+    It has a cost of c2, since it's the second statement and it is executed n times, to show that it scales linearly with n
+
+    The execution time is "n - 1" because it consider all the n iteration, one for each key, except the first one (2 in this case).
+
+    \begin{remark}[n - 1]
+        The same applies for the entire body of the for loop, including the body of the while loop.\footnote{The test is executed one more time than the body}
+    \end{remark}
+\end{eg}
+
+
+\begin{eg}[while j > 0 and A{[j]} > key]
+    Assign a variable named "key" to the index "i" in the Array "A"
+    
+    It has a cost of c5, since it's the fifth statement and it is executed n times, to show that it scales linearly with n
+
+    The execution time is $\sum_{i}^{n}2^{t_1}$ because it consider all the n iteration, one for each key, except the first one (2 in this case).
+
+    \begin{remark}[T(n)]
+        "T" is only a letter to denote "time of \emph{n}" and not a value in itself.
+
+        It express the concept of \hyperref[def:running_time_1]{running time}
+    \end{remark}
+\end{eg}

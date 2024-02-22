@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.26)  22 FEB 2024 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.26)  22 FEB 2024 15:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1680,6 +1680,30 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 109.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 112.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 115.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 118.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 127.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 134.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 136.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 140.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 147.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 151.
 ) [5] (./master.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -1697,27 +1721,27 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 92C5481DB7D821E682E984CBCA54D547;1491.
+(rerunfilecheck)             Checksum: 5A08EB42F0846102DB1FCFFF16F29F62;1580.
 Package logreq Info: Writing requests to 'master.run.xml'.
 \openout1 = `master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 74574 strings out of 474398
- 1763661 string characters out of 5727541
- 2191711 words of memory out of 5000000
- 95665 multiletter control sequences out of 15000+600000
- 588129 words of font info for 107 fonts, out of 8000000 for 9000
+ 74601 strings out of 474398
+ 1764234 string characters out of 5727541
+ 2196986 words of memory out of 5000000
+ 95684 multiletter control sequences out of 15000+600000
+ 588815 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,15n,107p,1414b,1862s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{definition.2.1.1} has been referenced but does not exist, replaced by a fixed one
 
-</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2986.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0600.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0700.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on master.pdf (7 pages, 370395 bytes).
+</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm2986.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0600.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0700.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
+Output written on master.pdf (7 pages, 410631 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
  82 words of extra memory for PDF output out of 10000 (max. 10000000)
 
