@@ -1,0 +1,8 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}The role of algorithms in computing (1-38)}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Algoriths}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Data structures}{2}{subsection.1.1.1}%
+\contentsline {chapter}{\numberline {2}Getting started (39-49)}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Insertion sort}{3}{section.2.1}%
+\contentsline {subsubsection}{Loop invariant}{3}{section*.6}%
+\contentsline {section}{\numberline {2.2}Analyzing algorithms}{4}{section.2.2}%
