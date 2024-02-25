@@ -1,0 +1,7 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Computer Networks and the Internet (1-78)}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}What Is the Internet}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}A nuts-and-Bolts Description}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}A service Description}{6}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}What Is a Protocol?}{6}{subsection.1.1.3}%
+\contentsline {subsubsection}{A human analogy}{6}{section*.7}%
