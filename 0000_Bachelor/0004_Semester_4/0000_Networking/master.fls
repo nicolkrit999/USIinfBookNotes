@@ -96,6 +96,8 @@ INPUT /opt/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /opt/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /opt/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
