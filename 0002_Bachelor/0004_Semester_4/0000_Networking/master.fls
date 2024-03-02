@@ -1,8 +1,8 @@
-PWD /home/krit/0000_Github_Repos/0001_USI/0000_Usi_Inf/0000_General/USIinfBookNotes/0000_Bachelor/0004_Semester_4/0000_Networking
+PWD /home/krit/0000_Github_Repos/0001_USI/0000_Usi_Inf/0000_General/USIinfBookNotes/0002_Bachelor/0004_Semester_4/0000_Networking
 INPUT /opt/texlive/2023/texmf.cnf
 INPUT /opt/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /opt/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/krit/0000_Github_Repos/0001_USI/0000_Usi_Inf/0000_General/USIinfBookNotes/0000_Bachelor/0004_Semester_4/0000_Networking/master.tex
+INPUT /home/krit/0000_Github_Repos/0001_USI/0000_Usi_Inf/0000_General/USIinfBookNotes/0002_Bachelor/0004_Semester_4/0000_Networking/master.tex
 OUTPUT master.log
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/base/report.cls
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/base/report.cls
@@ -96,8 +96,6 @@ INPUT /opt/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT /opt/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
-INPUT /opt/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 INPUT /opt/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
