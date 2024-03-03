@@ -7,3 +7,6 @@ The intellectual property rights for all materials derived from these books, inc
 I express my deepest appreciation to the authors, illustrators, and publishers for their invaluable contributions to the academic resources that have significantly enriched my learning experience. Their efforts are the backbone of my academic and personal development.
 
 For comprehensive details on the books, including titles, authors, and publication information, please consult the bibliography section of this repository.
+
+
+![Visualization of the codebase](./diagram.svg)
